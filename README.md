@@ -11,4 +11,4 @@ Soy Mathias Roldán, estoy dando mis primeros pasos en el **Análisis de datos**
 
 📬 **Contactame**
 - **Correo:** [mathiroldan@gmail.com]
-- **LinkedIn:** [in/mathias-roldan]
+- **LinkedIn:** [www.linkedin/mathias-roldan.com]
